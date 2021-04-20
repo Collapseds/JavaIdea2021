@@ -22,6 +22,6 @@ public class SimpleGuiB implements ActionListener{
     }
 
     public void actionPerformed(ActionEvent event){
-        button.setText("I've been clicked!");
+        button.setText("I've been clicked!!!");
     }
 }
